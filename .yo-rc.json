@@ -1,0 +1,20 @@
+{
+    "generator-jhipster": {
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "frontend",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "authenticationType": "jwt",
+        "cacheProvider": "no",
+        "databaseType": "sql",
+        "devDatabaseType": "sql",
+        "prodDatabaseType": "sql",
+        "testFrameworks": ["protractor"],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": false,
+        "skipServer": true
+    }
+}
